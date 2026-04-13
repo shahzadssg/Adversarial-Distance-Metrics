@@ -4,7 +4,7 @@ This repository contains the implementation and experimental code for the paper 
 
 ## Overview
 
-We demonstrate that clustering algorithms (K-means, DBSCAN, agglomerative) can be manipulated to produce **arbitrary, predetermined outcomes** by replacing the standard Euclidean distance with a carefully constructed **ε-semimetric**—a distance function that satisfies all metric properties except for an arbitrarily small violation of the triangle inequality.
+We demonstrate that clustering algorithms (K-means, DBSCAN, agglomerative) can be manipulated to produce **arbitrary, predetermined outcomes** by replacing the standard Euclidean distance with a carefully constructed **ε-semimetric**---a distance function that satisfies all metric properties except for an arbitrarily small violation of the triangle inequality.
 
 The attack preserves data integrity and algorithmic transparency. An auditor inspecting the code sees a standard clustering algorithm operating on unaltered data with a legitimate-looking distance function. Yet outcomes can be fully controlled by the adversary.
 
