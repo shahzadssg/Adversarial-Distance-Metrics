@@ -146,10 +146,13 @@ This work builds on the mathematical framework of ε-semimetrics introduced in:
 
 ```bibtex
 @article{rass2024,
-  author  = {Rass, Stefan and K{\"o}nig, Sandra and Schauer, Stefan},
-  title   = {Metricizing the Euclidean Space towards Desired Distance Relations in Point Clouds},
-  journal = {IEEE Transactions on Information Forensics and Security},
-  year    = {2024}
+	author = {Rass, Stefan and K{\"o}nig, Sandra and Ahmad, Shahzad and Goman, Maksim},
+	title = {Metricizing the Euclidean Space Toward Desired Distance Relations in Point Clouds},
+	journal = {IEEE Transactions on Information Forensics and Security},
+	volume = {19},
+	pages = {7304--7319},
+	year = {2024},
+	doi = {10.1109/TIFS.2024.3420246}
 }
 ```
 
